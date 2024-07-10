@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753092175397",
+    "project_id": "crudrealtimeclient-69704",
+    "storage_bucket": "crudrealtimeclient-69704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753092175397:android:432d26e50453ec133101cc",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweXNcfvNUEJI6kRFomNZL8-70lmKsPxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
